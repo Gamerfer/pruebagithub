@@ -20,6 +20,7 @@ namespace pruebagithub
         private void button1_Click(object sender, EventArgs e)
         {
             //Puto el que lo lea
+            //menos el que lo escribió
         }
     }
 }
